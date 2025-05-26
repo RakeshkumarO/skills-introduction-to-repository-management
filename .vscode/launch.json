@@ -12,7 +12,7 @@
       "args": [
         "src.app:app",
         "--reload"
-        // how
+        
       ],
       "jinja": true
     }
